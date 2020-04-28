@@ -1,0 +1,3 @@
+﻿  Gauss.cpp
+G:\C-workspace\Gauss\Gauss\Gauss.cpp(4,34): warning C4083: 应输入“newline”；找到标识符“；”
+  Gauss.vcxproj -> G:\C-workspace\Gauss\Debug\Gauss.exe
